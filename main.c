@@ -1,3 +1,8 @@
+/*
+ * This code is developed by Eng. Mazen Aljeddani
+ * Contact : eng.mazens@live.com
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "school.h"
