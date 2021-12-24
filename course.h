@@ -1,3 +1,11 @@
+/**
+ *
+ * This code is developed by Eng. Mazen Aljeddani
+ * Contact : eng.mazens@live.com
+ * 
+ * @version : 1.0.0 
+ */
+
 #ifndef __COURSE_H__
 #define __COURSE_H__
 
