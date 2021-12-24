@@ -1,6 +1,10 @@
 /**
  * 
+ * This code is developed by Eng. Mazen Aljeddani
+ * Contact : eng.mazens@live.com
+ *
  * @version : 1.0.0 
+ * 
  */
 
 #ifndef CONSTANT_H
