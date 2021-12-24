@@ -1,6 +1,9 @@
 /**
  *
- * @version : 1.0.0  
+ * This code is developed by Eng. Mazen Aljeddani
+ * Contact : eng.mazens@live.com
+ * 
+ * @version : 1.0.0 
  */
 
 #include <stdio.h>
